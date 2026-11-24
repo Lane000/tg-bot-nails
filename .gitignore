@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+
+/bin/
+/dist/
+*.exe
+*.test
+*.out
